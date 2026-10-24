@@ -47,7 +47,6 @@ echo '666c61677b696b6e65776974776173796f757279616e73756e677d0a' > /path/to/your/
 ```bash
  xxd -r -p '你要的檔案'
 ```
-
 或者是利用網路上的工具轉換也行。
 
 **Command Breakdown**
