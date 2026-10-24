@@ -30,22 +30,14 @@ e.g. 'a' ---> 'h' 'b' ---> 'i'
 666c61677b696b6e65776974776173796f757279616e73756e677d0a
 ```
 
-### STEP 3 — 利用xxd指令 xxd Decode
+### STEP 3 — 觀察並利用xxd指令 Inspect and xxd Decode
+觀察剛剛的字串可以發現是由十六進制格式組成的。 '66'--->'f' '6c'--->'l'
 接下來，可使用 Linux 指令處理解密後的內容。
 
 把結果echo出來並利用導管連接xxd指令：
 ```bash
 echo '666c61677b696b6e65776974776173796f757279616e73756e677d0a' | xxd -r -p
 ```
-
-OR
-
-將第二步的結果存入 '你要的檔案'，再執行：
-
-```bash
-cat '你要的檔案' | xxd -r -p
-```
-
 利用網路上的工具轉換也行。
 
 **Command Breakdown**
@@ -54,7 +46,7 @@ cat '你要的檔案' | xxd -r -p
 - `xxd -r`：將十六進制格式轉回二進制格式
 - `xxd -p`：輸出純十六進制格式
 
-### Step 4 — Retrieve the Flag
+### Step 4 — 取得FLAG Retrieve the Flag
 完成上述步驟後，即可得到最終 Flag：
 
 :checkered_flag: **Flag**
