@@ -1,8 +1,8 @@
 # IG-CTF-game-write-up
-**Author: JellyPie (Mike)**
+
 ## WARNING: THIS WRITE-UP INCLUDES FLAG!!
 THIS IS THE PROCESS OF THE WHOLE GAME
-
+**Author: JellyPie (Mike)**
 ## **CTF Write-up｜解答本**
 
 以下為本題的完整解題流程。
