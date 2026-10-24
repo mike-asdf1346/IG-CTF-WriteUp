@@ -42,9 +42,10 @@ cat '你要的檔案' | rev | xxd -r -p
 
 **Command Breakdown**
 
-- `cat`：讀取檔案內容。
-- `rev`：將每一行的字元順序反轉。
-- `xxd -r -p`：將純十六進位字串轉換回原始位元組。
+- `cat`：讀取檔案內容
+- `rev`：將每一行的字元順序反轉
+- `xxd -r`：將十六進制格式轉回二進制格式
+- `xxd -p`：輸出純十六進制格式
 
 ### Step 4 — Retrieve the Flag
 完成上述步驟後，即可得到最終 Flag：
