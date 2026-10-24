@@ -74,4 +74,4 @@ flag{iknewitwasyouryansung}
 2. 將解密後的字串視為十六進位資料。
 3. 利用 Linux 指令反轉字串並還原資料。
 
-:closed_lock_with_key: 我也不知道我為什麼要做這個..反正不管怎麼樣, 這是我的第一篇write-up, 也是我第一次把Linux所學的部份知識重新 review 一遍, 最後, 不管你是有解開的還是沒解開的, 都非常感謝您願意花時間遊玩😭
+:closed_lock_with_key: 我也不知道我為什麼要做這個.., 這是我的第一篇write-up, 如果有誤還請馬上告訴我, 再次, 謝謝你願意花時間在我的Puzzle上!
