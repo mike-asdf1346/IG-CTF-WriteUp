@@ -27,7 +27,7 @@ t3w025u6y8y809x98068x9492058y880y92860490870270089x9u729u00949v999
 解密後得到：
 
 ```text
-a0d792b3f5f576e65735e6169725f557f69537167547947756e6b496b77616c666
+333j38344i363i3l32443641443840463m424946383l40423l344k7h
 ```
 
 ### Step 3 — Reverse and Decode
@@ -41,14 +41,14 @@ cat '你要的檔案' | rev | xxd -r -p
 OR
 
 ```bash
-touch 'a0d792b3f5f576e65735e6169725f557f69537167547947756e6b496b77616c666' '你要的檔案'
+touch '333j38344i363i3l32443641443840463m424946383l40423l344k7h' '你要的檔案'
 ```
 ```bash
 cat '你要的檔案' | rev
 ```
 把結果覆蓋並存入```'你要的檔案'```：
 ```bash
-echo 'a0d792b3f5f576e65735e6169725f557f69537167547947756e6b496b77616c666' > /path/to/your/'你要的檔案'
+echo '333j38344i363i3l32443641443840463m424946383l40423l344k7h' > /path/to/your/'你要的檔案'
 ```
 ```bash
  xxd -r -p '你要的檔案'
@@ -69,7 +69,7 @@ echo 'a0d792b3f5f576e65735e6169725f557f69537167547947756e6b496b77616c666' > /pat
 :checkered_flag: **Flag**
 
 ```text
-flag{iKnewItWasYou_RyanSung__;)}
+flag{iknewitwasyouryansung}
 ```
 
 ### Conclusion
