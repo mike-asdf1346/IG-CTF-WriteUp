@@ -1,5 +1,4 @@
 # IG-CTF-game-write-up
-
 ## ⚠️WARNING: THIS WRITE-UP INCLUDES FLAG!!⚠️
 **Author: JellyPie (Mike)**
 ## **CTF Write-up｜解答本**
@@ -32,7 +31,7 @@ e.g. 'a' ---> 'h' 'b' ---> 'i'
 
 ### STEP 3 — 觀察並利用xxd指令 Inspect and xxd Decode
 觀察剛剛的字串可以發現是由十六進制格式組成的。 '66'--->'f' '6c'--->'l'
-接下來，可使用 Linux bash 的指令處理解密後的內容。
+接下來，可使用 Linux 的指令處理解密後的內容。
 
 把結果echo出來並利用導管連接xxd指令：
 ```bash
@@ -62,7 +61,7 @@ flag{iknewitwasyouryansung}
 1. 找出貼文內洩漏機密(data:)的字串。
 1. 找出正確的字元位移規則。
 2. 將解密後的字串視為十六進位資料。
-3. 利用 Linux bash 指令還原資料。
+3. 利用 Linux 指令還原資料。
 
 ## That's all !
 :closed_lock_with_key: 我也不知道我為什麼要做這個.., 這是我的第一篇write-up, 如果有誤還請馬上告訴我, 最後, 謝謝你的閱讀!
