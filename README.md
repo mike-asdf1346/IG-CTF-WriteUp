@@ -31,7 +31,7 @@ THIS IS THE PROCESS OF THE WHOLE GAME
 ```
 
 ### Step 3 — Reverse and Decode
-接下來，使用 Linux 指令處理解密後的內容。
+接下來，可使用 Linux 指令處理解密後的內容。
 
 將第二步的結果存入 '你要的檔案'，再執行：
 
