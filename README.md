@@ -15,7 +15,7 @@ THIS IS THE PROCESS OF THE WHOLE GAME
 找到之後就可以開始解題了
 
 ### Step 1 — Identify the Encrypted Code
-首先，找出IG新導向的帳號中找出提供的加密字串：
+首先，找出原帳號簡介中所提供的秘密帳號並找出裡面提供的加密字串：
 
 ```text
 t3w025u6y8y809x98068x9492058y880y92860490870270089x9u729u00949v999
