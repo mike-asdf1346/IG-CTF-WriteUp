@@ -13,14 +13,14 @@
 ```
 找到之後就可以開始解題了
 
-### Step 1 — Identify the Encrypted Code
+### STEP 1 — 辨認加密字串 Identify the Encrypted Code
 首先，找出原帳號簡介中所提供的秘密帳號並找出裡面提供的加密字串：
 
 ```text
 333j38344i363i3l32443641443840463m424946383l40423l344k7h
 ```
 
-### Step 2 — Shift the Characters
+### STEP 2 — 置換文字 Shift the Characters
 觀察字串中的英文字母與數字，將兩者分別向前位移 7 個位置。
 
 解密後得到：
@@ -29,7 +29,7 @@
 666c61677b696b6e65776974776173796f757279616e73756e677d0a
 ```
 
-### Step 3 — Reverse and Decode
+### STEP 3 — 利用xxd指令 xxd Decode
 接下來，可使用 Linux 指令處理解密後的內容。
 
 把結果echo出來並利用導管連接xxd指令：
