@@ -11,7 +11,7 @@ This is the process of the game.
 ```text
 [  0.034100] data: t3w025u6y8y809x98068x9492058y880y92860490870270089x9u729u00949v999
 ```
-找到之後就可以開始解提了
+找到之後就可以開始解題了
 
 ### Step 1 — Identify the Encrypted Code
 首先，找出IG新導向的帳號中找出提供的加密字串：
