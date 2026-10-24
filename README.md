@@ -3,7 +3,7 @@
 ## WARNING: THIS WRITE-UP INCLUDES FLAG!!
 THIS IS THE PROCESS OF THE WHOLE GAME
 
-##:unlock: **CTF Write-up｜解答本**
+## **CTF Write-up｜解答本**
 
 以下為本題的完整解題流程。
 
