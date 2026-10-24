@@ -1,6 +1,6 @@
 # IG-CTF-game-write-up
 
-## WARNING: THIS WRITE-UP INCLUDES FLAG!!
+## ⚠️WARNING: THIS WRITE-UP INCLUDES FLAG!!⚠️
 THIS IS THE PROCESS OF THE WHOLE GAME
 **Author: JellyPie (Mike)**
 ## **CTF Write-up｜解答本**
